@@ -1,2 +1,2 @@
-# meeting-note-taker
-Just takes meeting minutes using Whisper + Gemini
+# Meeting Note Taker
+Just takes meeting minutes using Whisper + Gemini + 

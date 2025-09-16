@@ -1,0 +1,8 @@
+soundfile
+sounddevice
+pydub
+torch~=2.8.0
+lightning-whisper-mlx
+pyannote.audio
+huggingface-hub
+numpy
